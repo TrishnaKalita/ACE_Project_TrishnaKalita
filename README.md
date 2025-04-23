@@ -28,8 +28,10 @@ Run the program with :
   -   ./a.exe (Windows)
 
 Input:
+
 Choose a shape (Circle, Rectangle, or Triangle).
 Enter the required dimensions (e.g., radius for Circle, length and width for Rectangle).
 
 Output:
-Displays calculated area and perimeter/circumference.# ACE_Project_TrishnaKalita
+
+Displays calculated area and perimeter/circumference.
