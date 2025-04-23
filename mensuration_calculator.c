@@ -74,10 +74,10 @@ int main() {
 
 // Function for circle
 float area_circle(float radius) {
-    return M_PI * radius * radius;
+    return 3.14 * radius * radius;
 }
 float circumference_circle(float radius) {
-    return 2 * M_PI * radius;
+    return 2 * 3.14 * radius;
 }
 
 // Function for rectangle
